@@ -28,4 +28,4 @@ Anyone can freely help me contribute converting client script into javascript
 
 [MIT License](https://github.com/Sanix-Darker/AntiDDOS-system/blob/master/LICENSE)
 
-PS: Send me some feedback to make this project more powerfull than ever! ;-)
+NOTE: Send me some feedback to make this project more powerfull than ever! <3
