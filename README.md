@@ -22,7 +22,7 @@ Anyone can freely help me contribute converting client script into javascript
 
 ## Author
 
-- [Sanix-darker](https://github.com/MayankFawkes)
+- [Mayank Gupta](https://github.com/MayankFawkes)
 
 ## LICENSE
 
