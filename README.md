@@ -18,7 +18,7 @@ if __name__ == '__main__':
 			print('Error')
 ```
 # Contribute 
-Anyone can freely help me contribute converting client script into javascript
+Anyone can freely contribute converting client script into javascript
 
 ## Author
 
