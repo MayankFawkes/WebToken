@@ -26,6 +26,6 @@ Anyone can freely help me contribute converting client script into javascript
 
 ## LICENSE
 
-[MIT License](https://github.com/Sanix-Darker/AntiDDOS-system/blob/master/LICENSE)
+[MIT License](https://github.com/MayankFawkes/WebToken/blob/master/LICENSE)
 
 NOTE: Send me some feedback to make this project more powerfull than ever! <3
